@@ -15,6 +15,6 @@
 - [Чек-листы](https://drive.google.com/drive/folders/1r_2NMotbt3U27j3Ex-y8g0ZJVS4iPlyJ)
 - [Баг-репорты](https://drive.google.com/drive/folders/1ZuIHX3XHvFmJwIjr663RGjWW5EGHYyBd)
  ## Всегда на связи:
-  [<img src="https://img.shields.io/badge/Linkedin-E6E6FA?style=for-the-badge&logo=linkedin&logoColor=0000CD"/>](https://www.linkedin.com/feed/) [<img src="https://img.shields.io/badge/Telegram-E6E6FA?style=for-the-badge&logo=telegram&logoColor=00BFFF"/>](@marya0224)
+  [<img src="https://img.shields.io/badge/Linkedin-E6E6FA?style=for-the-badge&logo=linkedin&logoColor=0000CD"/>](https://www.linkedin.com/feed/) [<img src="https://img.shields.io/badge/Telegram-E6E6FA?style=for-the-badge&logo=telegram&logoColor=00BFFF"/>](https://t.me/marya0224)
 
 
