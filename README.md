@@ -1,4 +1,4 @@
-<img src="./src/logo.jpg">
+<img src="./src/logo1.jpg">
 
 # Привет, меня зовут Мария Менчик
 # Я Junior QA engineer
