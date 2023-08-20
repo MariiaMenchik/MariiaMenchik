@@ -13,7 +13,7 @@
 # Тестовая документация
 - [Тест-кейсы](https://drive.google.com/drive/folders/1oSDfnT-yLp_-ZuQi-ARYVWCZEEdaF3VI)
 - [Чек-листы](https://drive.google.com/drive/folders/1r_2NMotbt3U27j3Ex-y8g0ZJVS4iPlyJ)
-- [Баг-репорты](https://drive.google.com/drive/folders/1ZuIHX3XHvFmJwIjr663RGjWW5EGHYyBd)
+- [Баг-репорты](https://mariia-menchik.youtrack.cloud/issues/6)
 - [Mind map](https://drive.google.com/drive/folders/1ECUd1f0kcKmsQhg8uqNfxKcl6XJNdc0d)
 - [Блок-схемы](https://drive.google.com/drive/folders/15Zq6JjGesn_9AyXWrsGasX8fhGSifTcK)
 - [Charles](https://drive.google.com/drive/folders/1Lwtb9EgaQA-nJWpB2VvmodDfT0mQa_uT)
